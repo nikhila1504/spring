@@ -1,9 +1,7 @@
-package com.cts.abcd.service;
+package com.cts.did.service;
 
 import java.time.LocalDateTime;
 
-import org.springframework.stereotype.Component;
-@Component
 public class GreetNoteProviderTimeBasedImpl implements GreetNoteProvider{
 
 	public String getGreetNote() {

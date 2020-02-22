@@ -1,4 +1,4 @@
-package com.cts.abcd.service;
+package com.cts.did.service;
 
 public interface GreetNoteProvider {
 	String getGreetNote();
